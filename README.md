@@ -8,12 +8,6 @@ torch == 2.5.1
 
 dgl >= 1.1.2
 
-numpy >= 1.21.6
-
-scipy >= 1.7.3
-
-sklearn
-
 ## Run
     python main.py
 
